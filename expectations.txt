@@ -1,0 +1,1 @@
+I expect to learn how to build interactive and responsive web applications, understand client-server communication, and explore backend develoment with databases and server-sode scripting languages.
