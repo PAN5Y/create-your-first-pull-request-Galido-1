@@ -1,1 +1,3 @@
 I expect to learn how to build interactive and responsive web applications, understand client-server communication, and explore backend develoment with databases and server-sode scripting languages.
+
+Glindro: I also expect to learn how to create responsive web apps, and learn how to implement databases in backend for the web apps.
